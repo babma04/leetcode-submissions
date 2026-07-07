@@ -24,6 +24,7 @@ leetcode/
 
 Each solution folder typically includes:
 - The solution file (e.g. `solution.py`, `Solution.java`, `solution.cpp`)
+- A short README.md with the problem link, approach, and complexity analysis
 
 ## Languages Used
 
