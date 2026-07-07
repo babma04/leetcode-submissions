@@ -12,7 +12,8 @@ This repository contains my personal solutions to LeetCode problems, written as 
 leetcode/
 ├── array/
 │   ├── 001-two-sum/
-│   │   └── solution.java
+|   |   ├── solution.java
+│   │   └── README.md
 │   └── ...
 ├── linked-list/
 ├── dynamic-programming/
